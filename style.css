@@ -8,5 +8,29 @@ body {
 }
 
 header{
+    text-align: center;
     
 }
+
+button{
+    border-radius: 50px;
+    border:black;
+    background-color: darkblue;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+span{
+    color:antiquewhite;
+
+}
+
+button:hover{
+    background-color: blue;
+}
+
+button:active{
+    background-color: lightblue;
+}
+
